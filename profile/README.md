@@ -4,20 +4,15 @@
 
 What if the power to connect, communicate, and create wasn't something you rented — but something you truly owned?
 
-For every closed, subscription-locked product out there, we're building the open-source, buy-once alternative.
+For every closed, subscription-locked product out there, we're building the open-source, buy-once alternative — from tracking devices and wireless networking to mesh communication and connectivity tools.
 
-**GPS Tracker** → Open-source GPS tracker
-**AirTag** → Open-source AirTag
-**Dog Tracker** → Open-source dog tracker
-**Wi-Fi Hotspot** → Open-source hotspot that pays *you*
-
-Same proven products — rebuilt for privacy, freedom, and true ownership.
+Same proven product categories — rebuilt for privacy, freedom, and true ownership.
 
 ---
 
 ### Why We Exist
 
-Your dishwasher won't run without Wi-Fi. Your toothbrush wants a monthly fee. Your GPS collar costs $29/month just to tell you where your dog is. Your TV is listening. Everything you "own" phones home to a server you don't control.
+Your dishwasher won't run without Wi-Fi. Your toothbrush wants a monthly fee. Your TV is listening. Everything you "own" phones home to a server you don't control.
 
 Tech used to be fun to tinker with. You could crack things open, mod them, make them better. Now everything is sealed shut, soldered in, and subscription-locked. You don't own your tech anymore — you rent it.
 
@@ -29,16 +24,25 @@ To liberate real-world utility through practical, open-source technology that em
 
 ---
 
-### What We Build
+### What We Believe In
 
-**[Haven — MANET IP Mesh Radio](https://github.com/buildwithparallel/haven-manet-ip-mesh-radio)**
-Long-range mesh networking using HaLow (802.11ah) sub-1GHz radios. 1–10+ km per node, self-healing routing, end-to-end encryption via Reticulum. Works when the grid doesn't. Built on OpenWrt — fully hackable, fully yours.
+**Power back in the hands of the people.** Every product we build is designed to be owned — not rented, not licensed, not held hostage by a cloud service that can disappear tomorrow.
 
-**[MeshLink — The Hotspot That Pays You Back](https://github.com/buildwithparallel/Meshlink)**
-Turn a Raspberry Pi into a managed Wi-Fi hotspot with built-in payments. You set the price, you control the node, you keep the money. Real dollars for real bandwidth.
+**Open source, always.** Our code, schematics, and designs are public. Fork them. Modify them. Make them yours. No black boxes.
 
-**[Reticulum RNodes](https://github.com/buildwithparallel/reticulum-rnodes)**
-ESP32/LoRa firmware for extreme-range encrypted communications. Visual status LEDs, easy flashing, and backup comms that work when everything else fails.
+**Subscription-free.** If you bought it, it works. No monthly fees to unlock features that should have been yours from day one.
+
+**Decentralized.** No central servers, no single points of failure, no kill switches. Your network answers to you.
+
+**Removal of middlemen.** Direct from builder to builder. No gatekeepers deciding what you can do with your own hardware.
+
+**Practical utility.** If it doesn't solve a real problem, we don't build it. No hype, no vaporware — just tools that work.
+
+**Indie tech spirit.** Small tech over big tech. Community-driven over corporate-controlled. We'd rather ship something useful from a garage than pitch a slide deck to a boardroom.
+
+**Southern engineering grit.** Smart solutions born from necessity, not luxury. Simple, honest, and effective.
+
+**Affordable and accessible.** Inspired by the early days of Raspberry Pi — cheap, widely available, and easy for anyone to build with. This isn't tech for the privileged few. It's tech for everyone with the curiosity to try.
 
 ---
 
@@ -58,7 +62,7 @@ We give people the instructions, code, and physical parts to build their own net
 
 ### Data Slayer — YouTube
 
-[Data Slayer](https://www.youtube.com/@DataSlayer) is the media arm of Parallel — hands-on tutorials covering Raspberry Pi, Arduino, ESP32, LoRa, HaLow, mesh networking, open-source GPS trackers, and everything you need to start building the parallel economy. The kind of stuff you watch and then go build in your garage.
+[Data Slayer](https://www.youtube.com/@DataSlayer) is the media arm of Parallel — hands-on tutorials covering Raspberry Pi, Arduino, ESP32, LoRa, HaLow, mesh networking, and everything you need to start building the parallel economy. The kind of stuff you watch and then go build in your garage.
 
 Millions educated. Zero subscriptions pushed.
 
@@ -78,7 +82,7 @@ You just want to be left alone with your own hardware, on your own terms.
 
 Every node you spin up, every device you build, every subscription you cancel — you stop being a consumer and start being a participant.
 
-This isn't about complaining about how things are. It's about building the alternative. Open-source, buy-once solutions for people who'd rather own their tools than rent them. Your hardware, your data, your network, your rules.
+This isn't about complaining about how things are. It's about building the alternative. Open-source, buy-once tools for people who'd rather own their gear than rent it. Your hardware, your data, your network, your rules.
 
 The parallel economy isn't a theory. It's every person who decides to build instead of subscribe.
 
