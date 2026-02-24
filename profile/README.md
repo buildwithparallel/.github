@@ -1,102 +1,101 @@
 # Parallel
 
-### Don't just use tech. Own it.
+You've been living in a world where you pay monthly to use things you already bought. Where every device phones home. Where the tools you depend on can be taken away with a terms-of-service update.
 
-What if the power to connect, communicate, and create wasn't something you rented — but something you truly owned?
+You know something is wrong. You've felt it your entire life.
 
-For every closed, subscription-locked product out there, we're building the open-source, buy-once alternative — from tracking devices and wireless networking to mesh communication and connectivity tools.
-
-Same proven product categories — rebuilt for privacy, freedom, and true ownership.
+This is the other side.
 
 ---
 
-### Why We Exist
+### Here's what we believe.
 
-Your dishwasher won't run without Wi-Fi. Your toothbrush wants a monthly fee. Your TV is listening. Everything you "own" phones home to a server you don't control.
+The technology to connect, communicate, and build was never supposed to belong to a handful of corporations. It was supposed to belong to you.
 
-Tech used to be fun to tinker with. You could crack things open, mod them, make them better. Now everything is sealed shut, soldered in, and subscription-locked. You don't own your tech anymore — you rent it.
+Somewhere along the way, they convinced us we needed their permission. Their cloud. Their subscription. Their app. Their update cycle. Their terms.
 
-We remember when the internet was IRC, FTP, Winamp, and forums — decentralized and free. We're building our way back to that.
+We don't.
 
-### The Mission
+**Parallel exists to build the open-source, buy-once alternatives to every closed, subscription-locked product that treats you like a tenant in your own home.**
 
-To liberate real-world utility through practical, open-source technology that empowers people to connect beyond the reach of corporations, infrastructure, or borders — with no subscriptions and no compromises.
-
----
-
-### What We Believe In
-
-**Power back in the hands of the people.** Every product we build is designed to be owned — not rented, not licensed, not held hostage by a cloud service that can disappear tomorrow.
-
-**Open source, always.** Our code, schematics, and designs are public. Fork them. Modify them. Make them yours. No black boxes.
-
-**Subscription-free.** If you bought it, it works. No monthly fees to unlock features that should have been yours from day one.
-
-**Decentralized.** No central servers, no single points of failure, no kill switches. Your network answers to you.
-
-**Removal of middlemen.** Direct from builder to builder. No gatekeepers deciding what you can do with your own hardware.
-
-**Practical utility.** If it doesn't solve a real problem, we don't build it. No hype, no vaporware — just tools that work.
-
-**Indie tech spirit.** Small tech over big tech. Community-driven over corporate-controlled. We'd rather ship something useful from a garage than pitch a slide deck to a boardroom.
-
-**Southern engineering grit.** Smart solutions born from necessity, not luxury. Simple, honest, and effective.
-
-**Affordable and accessible.** Inspired by the early days of Raspberry Pi — cheap, widely available, and easy for anyone to build with. This isn't tech for the privileged few. It's tech for everyone with the curiosity to try.
+Connectivity. Tracking. Networking. Mesh communication. The categories are familiar. The approach is completely different.
 
 ---
 
-### What We Ship
+### What we stand for.
 
-We give people the instructions, code, and physical parts to build their own networks, trackers, and devices — no middlemen, no recurring fees.
+**Ownership.** Everything we make is designed to be yours. Not rented. Not licensed. Not dependent on a server that could shut down tomorrow. You bought it. You own it. It works.
 
-**Open-Source Code** — Software for real-world devices and networks. Fork it, modify it, make it yours.
+**Open source.** The code is public. The schematics are public. The designs are public. There are no black boxes. If you want to look under the hood, the hood is already open.
 
-**Hardware Kits** — Affordable DIY kits and components like the [Houdini M2](https://buildwithparallel.com). Buy once, own forever.
+**No subscriptions. Ever.** You shouldn't have to pay monthly for something you already hold in your hands.
 
-**Schematics & Blueprints** — 3D printing files (.stl), PCB manufacturing files (Gerber), circuit diagrams, and hardware layouts. Build it yourself or have it fabricated.
+**Decentralization.** No central servers. No single points of failure. No kill switch. Networks that answer to the people who built them.
 
-**In-Depth Guides** — Step-by-step digital guides on [Patreon](https://www.patreon.com/DataSlayer) that respect your intelligence and your time. Real-world use cases, not lab demos.
+**No middlemen.** Nobody between you and your hardware. Nobody deciding what you're allowed to do with the things you own.
 
----
+**Practical utility.** We don't build things that look good in a pitch deck. We build things that solve real problems for real people.
 
-### Data Slayer — YouTube
+**Indie tech.** Small over big. Garages over boardrooms. Community over corporation. We ship useful things, not fundraising rounds.
 
-[Data Slayer](https://www.youtube.com/@DataSlayer) is the media arm of Parallel — hands-on tutorials covering Raspberry Pi, Arduino, ESP32, LoRa, HaLow, mesh networking, and everything you need to start building the parallel economy. The kind of stuff you watch and then go build in your garage.
+**Grit.** Smart solutions born from necessity. Simple. Honest. Effective. If it works, it ships.
 
-Millions educated. Zero subscriptions pushed.
-
----
-
-### Who This Is For
-
-You're the person your family calls when the Wi-Fi goes down. You've flashed firmware before breakfast and explained to your kids why the smart TV doesn't need a microphone. You'd rather build your own device than buy another black-box gadget off a shelf.
-
-You're tired of paying monthly for things you already paid for. You want tools, not bills. You want to build, not just consume. Maybe you want to pass real skills on to your kids — show them how things actually work, not just how to swipe and stream.
-
-You just want to be left alone with your own hardware, on your own terms.
+**Accessible to everyone.** Affordable hardware. Clear documentation. Open designs. Inspired by the original spirit of Raspberry Pi — the idea that powerful technology should be cheap, available, and easy for anyone to pick up and build with.
 
 ---
 
-### The Parallel Economy
+### What we ship.
 
-Every node you spin up, every device you build, every subscription you cancel — you stop being a consumer and start being a participant.
+We put everything in your hands — the code, the parts, the blueprints, and the knowledge. No gatekeepers. No recurring fees.
 
-This isn't about complaining about how things are. It's about building the alternative. Open-source, buy-once tools for people who'd rather own their gear than rent it. Your hardware, your data, your network, your rules.
+**Code** — Open-source software for real devices and real networks.
 
-The parallel economy isn't a theory. It's every person who decides to build instead of subscribe.
+**Hardware** — DIY kits and components like the [Houdini M2](https://buildwithparallel.com). You buy it once. It's yours forever.
+
+**Blueprints** — 3D printing files, PCB schematics, circuit diagrams. Build it yourself or have it fabricated.
+
+**Guides** — In-depth, step-by-step builds on [Patreon](https://www.patreon.com/DataSlayer). Written for people who want to understand, not just follow instructions.
 
 ---
 
-### Get Involved
+### Data Slayer
 
-- **Build something** — Clone a repo, grab a kit, follow a guide, and deploy your first node
-- **[Watch & Learn](https://www.youtube.com/@DataSlayer)** — Tutorials, experiments, and builds on YouTube
-- **[Go deeper](https://www.patreon.com/DataSlayer)** — In-depth guides and exclusive content on Patreon
-- **[Join the Community](https://discord.gg/buildwithparallel)** — Discord for troubleshooting, project shares, and connecting with builders
-- **[r/ModernRadio](https://www.reddit.com/r/ModernRadio/)** — The subreddit for indie wireless and open-source radio
-- **[Shop](https://buildwithparallel.com)** — Hardware kits, components, and 3D printing schematics
-- **Contribute** — PRs, issues, schematics, and ideas are all welcome
+[Data Slayer](https://www.youtube.com/@DataSlayer) is where we show our work. Every build. Every experiment. Every lesson learned. Hands-on tutorials covering Raspberry Pi, Arduino, ESP32, LoRa, HaLow, mesh networking — the full stack of the parallel economy.
+
+We've educated millions of people. We've never sold a single subscription.
+
+---
+
+### Who this is for.
+
+The person who takes things apart to understand them. Who'd rather build a solution than buy one. Who's tired of paying monthly for features that should have been included. Who wants to teach their kids how things actually work — not just how to consume them.
+
+You've been looking for something like this. You just didn't know it existed yet.
+
+---
+
+### The parallel economy.
+
+There are two paths.
+
+One is the path you've been on. Monthly fees. Closed ecosystems. Hardware you're not allowed to modify. Networks controlled by companies that don't know your name.
+
+The other is this. Open tools. Owned hardware. Community-built networks. Technology that serves the person who holds it.
+
+Every device you build, every node you deploy, every subscription you walk away from — that's one more person who chose the other path.
+
+The parallel economy isn't something we're waiting for. It's something we're building. Right now.
+
+---
+
+### Join us.
+
+- **[Watch](https://www.youtube.com/@DataSlayer)** — Builds, tutorials, and experiments on YouTube
+- **[Learn](https://www.patreon.com/DataSlayer)** — In-depth guides on Patreon
+- **[Build](https://buildwithparallel.com)** — Hardware kits, components, and schematics
+- **[Connect](https://discord.gg/buildwithparallel)** — Discord community
+- **[Discuss](https://www.reddit.com/r/ModernRadio/)** — r/ModernRadio
+- **Contribute** — The repos are open. PRs, issues, ideas — all welcome.
 
 ---
 
