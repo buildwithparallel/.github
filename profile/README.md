@@ -62,7 +62,7 @@ We put everything in your hands — the code, the parts, the blueprints, and the
 
 [Data Slayer](https://www.youtube.com/@DataSlayer) is where we show our work. Every build. Every experiment. Every lesson learned. Hands-on tutorials covering Raspberry Pi, Arduino, ESP32, LoRa, HaLow, mesh networking — the full stack of the parallel economy.
 
-We've educated millions of people. We've never sold a single subscription.
+We've educated millions of people. 
 
 ---
 
