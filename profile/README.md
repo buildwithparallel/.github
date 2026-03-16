@@ -100,5 +100,3 @@ The parallel economy isn't something we're waiting for. It's something we're bui
 - **Contribute** — The repos are open. PRs, issues, ideas — all welcome.
 
 ---
-
-**Open source. Buy once. Own forever.**
