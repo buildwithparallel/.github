@@ -1,34 +1,54 @@
 # Parallel
 
-*"Not all those who wander are lost."* — J.R.R. Tolkien
+*"Not all those who wander are lost."* - J.R.R. Tolkien
 
 ---
 
-### The mission.
+### We're building an open source internet.
 
-**Parallel exists to restore technological sovereignty to the individual.**
+Parallel exists to restore technological sovereignty to the individual.
 
-That's the reason everything here exists. Every product, every open-source repo, every piece of hardware we ship serves one purpose: ensuring the tools of connection, communication, and creation belong to the people who use them — not the corporations that built them.
+That means building the tools, hardware, documentation, and community needed for people to own the systems they rely on. Not as a slogan. As working infrastructure you can inspect, modify, repair, deploy, and pass on.
 
-The greatest threat to human freedom isn't a single event. It's the slow, quiet transfer of ownership — from people to platforms, from communities to corporations, from citizens to systems they didn't build and can't control.
+The internet became the most powerful tool for speech, commerce, learning, and coordination that humanity has ever built. Then the control plane quietly moved away from the people using it. Devices became sealed. Networks became rented. Useful features became subscriptions. Communication became dependent on companies that can change the rules, shut off access, or disappear entirely.
 
-We're not fighting that with protest. We're fighting it with product.
+We're building the other path: open code, owned hardware, decentralized networks, and practical tools that keep working because the people who use them understand them.
+
+We're not fighting for that with protest.
+
+We're fighting for it with product.
 
 ---
 
-### Freedom is not the default.
+### An open internet is not the default.
 
-Tyranny is the equilibrium. It's the default state of human civilization. In most of the world, the internet is a walled garden controlled by the state. VPNs are criminalized. Dissent is silence. In some places, the internet doesn't exist for ordinary people. In others, they shut the entire network down when the population starts asking questions or speaking too much truth to power. The idea that you could build your own device, run your own network, and say what you think without permission — that's not just unusual. It's unthinkable.
+In much of the world, the internet is not an open commons. It is a walled garden controlled by the state, filtered by telecom monopolies, or shut down entirely when people start speaking too much truth to power. VPNs are criminalized. Dissent is silenced. In some places, ordinary people do not get meaningful access at all.
 
-Democracy. Capitalism. Free speech. Open markets. Individual liberty. A marketplace of ideas where we choose with our time and attention the ideas that are best — rather than censoring the ones we don't like. None of these are the historical norm. They're anomalies. Every single one of them exists because someone fought for it, bled for it, and refused to let it disappear.
+The idea that a person can build their own device, run their own network, host their own services, and communicate without permission is not normal historically. It is unusual. It is fragile. And it only survives when people keep building tools that make it harder to take away.
 
-There's a place that was built on the belief that the individual matters more than the state. That the state serves the individual, not the other way around. That you don't need permission from a king, a committee, or a corporation to build something, own something, or speak your mind. That idea — that one person with the right tools and the freedom to use them can change everything — is the most powerful idea in human history. And it only survives as long as someone is actively applying pressure to keep it that way. The moment we stop pushing, the moment we get comfortable and assume the work is done, everything drifts back toward control.
+Technological freedom is the next front of that fight. The tools you use, the networks you depend on, and the data you generate will define the next century. If those systems are closed, rented, and controlled by a handful of institutions, freedom becomes a setting someone else can toggle.
 
-We're grateful to live where we live. Grateful that building something like Parallel is even possible here. And grateful for the people who carried that idea forward — the ones who understood that freedom isn't given, it's defended. Generation after generation.
+That is why Parallel exists.
 
-Technological freedom is the next front of that fight. The tools you use, the networks you depend on, the data you generate — who controls those things will define the next century. And right now, that control is quietly consolidating into fewer and fewer hands.
+---
 
-That's why this matters. Not because we're building gadgets. Because the right to own your own technology is an extension of every freedom that came before it. Individualism isn't selfish. It's the foundation everything else is built on. Let the nerds keep their lunch money and they'll change the world — not by trickling down wealth, but by building things that make everyone's life better.
+### The Parallel stack.
+
+An open source internet is not one device. It is a stack.
+
+Every repo, guide, kit, and experiment here should make one layer more usable, more understandable, or more independent:
+
+**Routing and addressability.** Owning more of the path packets take, from local routing experiments to sovereign IP infrastructure.
+
+**Last-mile access.** Hardware and software that help people create local connectivity where Big Telco is expensive, brittle, or uninterested.
+
+**Sovereign transports.** Parallel ways for devices to talk: IP, mesh, LoRa, HaLow, Reticulum, packet radio, and whatever else proves useful in the field.
+
+**Local services.** DNS, messaging, storage, relays, VPNs, and self-hosted services that can run close to the people who need them.
+
+**Identity and trust.** Durable identities, keys, names, and protocols that belong to users instead of platforms.
+
+The point is not to romanticize going offline. The point is to make connection something people can build, understand, and keep.
 
 ---
 
@@ -56,23 +76,35 @@ That's why this matters. Not because we're building gadgets. Because the right t
 
 ### What we ship.
 
-We put everything in your hands — the code, the parts, the blueprints, and the knowledge. No gatekeepers. No recurring fees.
+Parallel puts the parts in public so builders can see the work, improve it, and make it their own.
 
-**Code** — Open-source software for real devices and real networks.
+**Code** - Open-source software for real devices, real radios, and real networks.
 
-**Hardware** — DIY kits and components like the [Houdini M2](https://buildwithparallel.com). You buy it once. It's yours forever.
+**Hardware** - DIY kits and components like the [Houdini M2](https://buildwithparallel.com), built for people who would rather own a tool than rent a permission slip.
 
-**Blueprints** — 3D printing files, PCB schematics, circuit diagrams. Build it yourself or have it fabricated.
+**Blueprints** - 3D-printing files, PCB schematics, circuit diagrams, and hardware layouts you can inspect before you build.
 
-**Guides** — In-depth, step-by-step builds on [Patreon](https://www.patreon.com/DataSlayer). Written for people who want to understand, not just follow instructions.
+**Guides** - Step-by-step builds on [Patreon](https://www.patreon.com/DataSlayer), written for people who want to understand the system, not blindly follow instructions.
+
+**Media** - Hands-on demonstrations through [Data Slayer](https://www.youtube.com/@DataSlayer), where we test the gear, show the failures, and document what actually works.
 
 ---
 
-### Data Slayer
+### Data Slayer is where we show the work.
 
-[Data Slayer](https://www.youtube.com/@DataSlayer) is where we show our work. Every build. Every experiment. Every lesson learned. Hands-on tutorials covering Raspberry Pi, Arduino, ESP32, LoRa, HaLow, mesh networking — the full stack of the parallel economy.
+[Data Slayer](https://www.youtube.com/@DataSlayer) is the media engine behind Parallel.
 
-We've educated millions of people. 
+Every build is a proof point. Raspberry Pi, Arduino, ESP32, LoRa, HaLow, mesh networking, off-grid comms, DIY infrastructure - the videos turn the mission into something you can watch, replicate, and improve.
+
+We've educated millions of people because practical freedom is more convincing than theory. A working node on a desk says more than a manifesto. A neighbor using the thing says even more.
+
+---
+
+### Who this is for.
+
+Parallel is for people who miss when technology felt like something you could actually own.
+
+It's for builders, privacy seekers, radio nerds, open-source contributors, practical dads, the tactically minded, people who believe redundancy is common sense, off-grid experimenters, indie hackers, and anyone who has looked at a sealed black box with a monthly fee and thought: I can probably build a better version of this.
 
 ---
 
@@ -80,23 +112,24 @@ We've educated millions of people.
 
 There are two paths.
 
-One is the path you've been on. Monthly fees. Closed ecosystems. Hardware you're not allowed to modify. Networks controlled by companies that don't know your name.
+One is rented. Monthly fees. Closed ecosystems. Hardware you are not allowed to modify. Networks controlled by companies that do not know your name and governments that do not need your permission.
 
-The other is this. Open tools. Owned hardware. Community-built networks. Technology that serves the person who holds it.
+The other is built. Open tools. Owned hardware. Decentralized networks. Local services. People teaching each other how the stack actually works.
 
-Every device you build, every node you deploy, every subscription you walk away from — that's one more person who chose the other path.
+Every repo published, every guide written, every node deployed, every subscription cancelled, every black box replaced with something open - that is one more piece of the open source internet coming online.
 
-The parallel economy isn't something we're waiting for. It's something we're building. Right now.
+The parallel economy is not a theory. It is what happens when enough people stop asking permission and start building the infrastructure they wish existed.
 
 ---
 
 ### Join us.
 
-- **[Watch](https://www.youtube.com/@DataSlayer)** — Builds, tutorials, and experiments on YouTube
-- **[Learn](https://www.patreon.com/DataSlayer)** — In-depth guides on Patreon
-- **[Build](https://buildwithparallel.com)** — Hardware kits, components, and schematics
-- **[Connect](https://discord.gg/buildwithparallel)** — Discord community
-- **[Discuss](https://www.reddit.com/r/ModernRadio/)** — r/ModernRadio
-- **Contribute** — The repos are open. PRs, issues, ideas — all welcome.
+- **[Watch](https://www.youtube.com/@DataSlayer)** - Builds, tutorials, failures, field tests, and experiments on YouTube
+- **[Learn](https://www.patreon.com/DataSlayer)** - In-depth guides and builder notes on Patreon
+- **[Build](https://buildwithparallel.com)** - Hardware kits, components, and schematics
+- **[Connect](https://discord.gg/buildwithparallel)** - Discord community
+- **[Discuss](https://www.reddit.com/r/ModernRadio/)** - r/ModernRadio
+- **Contribute** - Open issues, submit PRs, improve docs, test builds, and help make the stack real
 
 ---
+
