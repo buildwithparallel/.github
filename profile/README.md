@@ -1,10 +1,10 @@
 # Parallel
 
-*"Not all those who wander are lost."* - J.R.R. Tolkien
+*"Those who cannot remember the past are condemned to repeat it."* - George Santayana
 
 ---
 
-### We're building an open source internet.
+### We're building a free and open internet.
 
 Parallel exists to restore technological sovereignty to the individual.
 
@@ -55,6 +55,8 @@ The point is not to romanticize going offline. The point is to make connection s
 ### What we stand for.
 
 **Ownership.** Everything we make is designed to be yours. Not rented. Not licensed. Not dependent on a server that could shut down tomorrow. You bought it. You own it. It works.
+
+**Do not exchange your rights for convenience.** Convenience is only progress when it leaves ownership, privacy, and agency intact.
 
 **Open source.** The code is public. The schematics are public. The designs are public. There are no black boxes. If you want to look under the hood, the hood is already open.
 
@@ -132,4 +134,3 @@ The parallel economy is not a theory. It is what happens when enough people stop
 - **Contribute** - Open issues, submit PRs, improve docs, test builds, and help make the stack real
 
 ---
-
