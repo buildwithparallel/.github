@@ -68,9 +68,11 @@ The point is not to romanticize going offline. The point is to make connection s
 
 **Practical utility.** We don't build things that look good in a pitch deck. We build things that solve real problems for real people.
 
-**Indie tech.** Big companies don't win by making great products. They win by sucking slightly less than the other big companies. That's not a bar we're interested in clearing. Small over big. Garages over boardrooms. Community over corporation. We ship useful things, not fundraising rounds.
-
 **Grit.** Smart solutions born from necessity. Simple. Honest. Effective. If it works, it ships.
+
+**Repair over replace.** We are against planned obsolescence and the culture of e-waste it creates. Keep last year's radio, last decade's Pi, last generation's laptop in the stack. Upcycle old gear. We want to see how long your gear can run.
+
+**More with less.** Inexpensive hardware that punches above its weight.
 
 **Accessible to everyone.** Affordable hardware. Clear documentation. Open designs. Inspired by the original spirit of Raspberry Pi — the idea that powerful technology should be cheap, available, and easy for anyone to pick up and build with.
 
@@ -82,19 +84,19 @@ Parallel puts the parts in public so builders can see the work, improve it, and 
 
 **Code** - Open-source software for real devices, real radios, and real networks.
 
-**Hardware** - DIY kits and components like the [Houdini M2](https://buildwithparallel.com), built for people who would rather own a tool than rent a permission slip.
+**Hardware** - DIY kits and components like the [Houdini M2](https://buildwithparallel.com/products/new-houdini-m2-meshtastic-powered-open-source-dog-tracker-sensecap-t1000-e-clip), built for people who would rather own a tool than rent a permission slip.
 
 **Blueprints** - 3D-printing files, PCB schematics, circuit diagrams, and hardware layouts you can inspect before you build.
 
 **Guides** - Step-by-step builds written for people who want to understand the system, not blindly follow instructions.
 
-**Media** - Hands-on demonstrations through [Data Slayer](https://www.youtube.com/@DataSlayer), where we test the gear, show the failures, and document what actually works.
+**Media** - Hands-on demonstrations through [Data Slayer](https://www.youtube.com/@DataSlayerMedia), where we test the gear, show the failures, and document what actually works.
 
 ---
 
 ### Data Slayer is where we show the work.
 
-[Data Slayer](https://www.youtube.com/@DataSlayer) is the media engine behind Parallel.
+[Data Slayer](https://www.youtube.com/@DataSlayerMedia) is the media engine behind Parallel.
 
 Every build is a proof point. Raspberry Pi, Arduino, ESP32, LoRa, HaLow, mesh networking, off-grid comms, DIY infrastructure - the videos turn the mission into something you can watch, replicate, and improve.
 
@@ -126,9 +128,9 @@ The parallel economy is not a theory. It is what happens when enough people stop
 
 ### Join us.
 
-- **[Watch](https://www.youtube.com/@DataSlayer)** - Builds, tutorials, failures, field tests, and experiments on YouTube
+- **[Watch](https://www.youtube.com/@DataSlayerMedia)** - Builds, tutorials, failures, field tests, and experiments on YouTube
 - **[Build](https://buildwithparallel.com)** - Hardware kits, components, and schematics
-- **[Connect](https://discord.gg/buildwithparallel)** - Discord community
+- **[Connect](https://discord.gg/g7h8Jc7Agt)** - Discord community
 - **[Discuss](https://www.reddit.com/r/ModernRadio/)** - r/ModernRadio
 - **Contribute** - Open issues, submit PRs, improve docs, test builds, and help make the stack real
 
