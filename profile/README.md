@@ -86,7 +86,7 @@ Parallel puts the parts in public so builders can see the work, improve it, and 
 
 **Blueprints** - 3D-printing files, PCB schematics, circuit diagrams, and hardware layouts you can inspect before you build.
 
-**Guides** - Step-by-step builds on [Patreon](https://www.patreon.com/DataSlayer), written for people who want to understand the system, not blindly follow instructions.
+**Guides** - Step-by-step builds written for people who want to understand the system, not blindly follow instructions.
 
 **Media** - Hands-on demonstrations through [Data Slayer](https://www.youtube.com/@DataSlayer), where we test the gear, show the failures, and document what actually works.
 
@@ -127,7 +127,6 @@ The parallel economy is not a theory. It is what happens when enough people stop
 ### Join us.
 
 - **[Watch](https://www.youtube.com/@DataSlayer)** - Builds, tutorials, failures, field tests, and experiments on YouTube
-- **[Learn](https://www.patreon.com/DataSlayer)** - In-depth guides and builder notes on Patreon
 - **[Build](https://buildwithparallel.com)** - Hardware kits, components, and schematics
 - **[Connect](https://discord.gg/buildwithparallel)** - Discord community
 - **[Discuss](https://www.reddit.com/r/ModernRadio/)** - r/ModernRadio
